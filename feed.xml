@@ -3,7 +3,7 @@
     <title>Константин Евдокимов</title>
     <link href="https://e-codo.github.io/design/feed.xml" rel="self" />
     <link href="https://e-codo.github.io/design" />
-    <updated>2026-11-15T23:49:06+05:00</updated>
+    <updated>2026-11-16T10:58:13+05:00</updated>
     <author>
         <name>Константин Евдокимов</name>
     </author>
@@ -43,7 +43,7 @@
   </p>
 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://e-codo.github.io/design/media/posts/8/google-nano-banana-2.1_.-.-.-boxy-fit-.-.pa-.-1.-._2026-11-15.png" height="768" width="1376" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://e-codo.github.io/design/media/posts/8/responsive/google-nano-banana-2.1_.-.-.-boxy-fit-.-.pa-.-1.-._2026-11-15-xs.webp 300w ,https://e-codo.github.io/design/media/posts/8/responsive/google-nano-banana-2.1_.-.-.-boxy-fit-.-.pa-.-1.-._2026-11-15-sm.webp 480w ,https://e-codo.github.io/design/media/posts/8/responsive/google-nano-banana-2.1_.-.-.-boxy-fit-.-.pa-.-1.-._2026-11-15-md.webp 768w ,https://e-codo.github.io/design/media/posts/8/responsive/google-nano-banana-2.1_.-.-.-boxy-fit-.-.pa-.-1.-._2026-11-15-lg.webp 1024w">
+      <img loading="lazy" src="https://e-codo.github.io/design/media/posts/8/DSIM_00128945.png" height="768" width="1376" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://e-codo.github.io/design/media/posts/8/responsive/DSIM_00128945-xs.webp 300w ,https://e-codo.github.io/design/media/posts/8/responsive/DSIM_00128945-sm.webp 480w ,https://e-codo.github.io/design/media/posts/8/responsive/DSIM_00128945-md.webp 768w ,https://e-codo.github.io/design/media/posts/8/responsive/DSIM_00128945-lg.webp 1024w">
       
     </figure>
 
@@ -83,18 +83,18 @@
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://e-codo.github.io/design/media/posts/8/gallery/google-nano-banana-2.1_.-.-.-.-fashion-.-90-.-.-_2026-11-15.png" data-size="1792x2400">
-        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/8/gallery/google-nano-banana-2.1_.-.-.-.-fashion-.-90-.-.-_2026-11-15-thumbnail.webp" height="1029" width="768" alt="" >
+      <a href="https://e-codo.github.io/design/media/posts/8/gallery/056-2-2.png" data-size="1792x2400">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/8/gallery/056-2-2-thumbnail.webp" height="1029" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://e-codo.github.io/design/media/posts/8/gallery/google-nano-banana-2.1_.-.-200-.-fashion-.-.-.-._2026-11-14.png" data-size="1792x2400">
-        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/8/gallery/google-nano-banana-2.1_.-.-200-.-fashion-.-.-.-._2026-11-14-thumbnail.webp" height="1029" width="768" alt="" >
+      <a href="https://e-codo.github.io/design/media/posts/8/gallery/056-3-2.png" data-size="1792x2400">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/8/gallery/056-3-2-thumbnail.webp" height="1029" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://e-codo.github.io/design/media/posts/8/gallery/5342.png" data-size="1792x2400">
-        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/8/gallery/5342-thumbnail.webp" height="1029" width="768" alt="" >
+      <a href="https://e-codo.github.io/design/media/posts/8/gallery/056-1-2.png" data-size="1792x2400">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/8/gallery/056-1-2-thumbnail.webp" height="1029" width="768" alt="" >
       </a>
       
     </figure>
@@ -108,6 +108,10 @@
     <h4 id="analiz-konkurentov">
       Анализ конкурентов
     </h4>
+
+  <p>
+    При анализе карточек конкурентов, я не копирую слепо готовую структуру, даже если карточка в топе, высоким рейтингом и тысячами отзывов.
+  </p>
 
     <h4 id="gipotezyandnbsp">
       Гипотезы&nbsp;
