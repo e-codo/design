@@ -3,12 +3,111 @@
     <title>Константин Евдокимов</title>
     <link href="https://e-codo.github.io/design/feed.xml" rel="self" />
     <link href="https://e-codo.github.io/design" />
-    <updated>2026-11-17T12:48:59+05:00</updated>
+    <updated>2026-11-18T02:42:28+05:00</updated>
     <author>
         <name>Константин Евдокимов</name>
     </author>
     <id>https://e-codo.github.io/design</id>
 
+    <entry>
+        <title>Карточка для хита</title>
+        <author>
+            <name>Константин Евдокимов</name>
+        </author>
+        <link href="https://e-codo.github.io/design/kartochka-dlya-hita/"/>
+        <id>https://e-codo.github.io/design/kartochka-dlya-hita/</id>
+        <media:content url="https://e-codo.github.io/design/media/posts/10/SKUA001027800_LIST_A011_13.03.png" medium="image" />
+            <category term="Маркетплейсы"/>
+
+        <updated>2026-11-18T02:35:57+05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://e-codo.github.io/design/media/posts/10/SKUA001027800_LIST_A011_13.03.png" class="type:primaryImage" alt="" /></p>
+                
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A01_13.03.26.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A01_13.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A02_13.03.26.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A02_13.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A03_13.03.26.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A03_13.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A04_13.03.26.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A04_13.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A05_13.03.26.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A05_13.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A06_13.03.26.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A06_13.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A07_13.03.26.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A07_13.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A08_13.03.26.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A08_13.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A09_13.03.26.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A09_13.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A010_13.03.26.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A010_13.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A011_13.03.26.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A011_13.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A012_13.03.26.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A012_13.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A013_13.03.26.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A013_13.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A014_13.03.26.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A014_13.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A015_13.03.26.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A015_13.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>От 3D-рендера к живому кадру: карточка для MIXIT Collagen &amp; Honey</title>
         <author>
