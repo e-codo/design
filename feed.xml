@@ -3,67 +3,78 @@
     <title>Константин Евдокимов</title>
     <link href="https://e-codo.github.io/design/feed.xml" rel="self" />
     <link href="https://e-codo.github.io/design" />
-    <updated>2026-11-18T03:14:18+05:00</updated>
+    <updated>2026-11-19T01:18:39+05:00</updated>
     <author>
         <name>Константин Евдокимов</name>
     </author>
     <id>https://e-codo.github.io/design</id>
 
     <entry>
-        <title>Полиш для лица как ритуал перед макияжем</title>
+        <title>05. Тёплый свет и текстура мёда: работа над проектом MIXIT Honey</title>
         <author>
             <name>Константин Евдокимов</name>
         </author>
         <link href="https://e-codo.github.io/design/polish-dlya-lica-kak-ritual-pered-makiyazhem/"/>
         <id>https://e-codo.github.io/design/polish-dlya-lica-kak-ritual-pered-makiyazhem/</id>
         <media:content url="https://e-codo.github.io/design/media/posts/11/SKUA000833700_LIST_1A_06.03.26.png" medium="image" />
+            <category term="Маркетплейсы"/>
 
         <updated>2026-11-18T03:06:06+05:00</updated>
-            <summary></summary>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://e-codo.github.io/design/media/posts/11/SKUA000833700_LIST_1A_06.03.26.png" alt="" />
+                    Этот проект я делал, работая внутри команды бренда. Задача: собрать визуал для новой линейки,&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://e-codo.github.io/design/media/posts/11/SKUA000833700_LIST_1A_06.03.26.png" class="type:primaryImage" alt="" /></p>
                 
+  <p>
+    Этот проект я делал, работая внутри команды бренда. Задача: собрать визуал для новой линейки, который передаст текстуру и тепло продукта без организации сложных фотосессий.
+<br>На входе у меня были только исходник продукта и ТЗ. Я сгенерировал фотореалистичные кадры и сверстал воронку, соблюдая гайдлайны компании. Основной акцент сделали на мягком свете и естественных бликах, чтобы на фото продукт выглядел дорого и тактильно.
+  </p>
+
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://e-codo.github.io/design/media/posts/11/gallery/SKUA000833700_LIST_2A_06.03.26.png" data-size="900x1200">
-        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/11/gallery/SKUA000833700_LIST_2A_06.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      <a href="https://e-codo.github.io/design/media/posts/11/gallery/SKUA000833700_LIST_2A_06.03.26-2.png" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/11/gallery/SKUA000833700_LIST_2A_06.03.26-2-thumbnail.webp" height="1024" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://e-codo.github.io/design/media/posts/11/gallery/SKUA000833700_LIST_3A_06.03.26.png" data-size="900x1200">
-        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/11/gallery/SKUA000833700_LIST_3A_06.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      <a href="https://e-codo.github.io/design/media/posts/11/gallery/SKUA000833700_LIST_3A_06.03.26-2.png" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/11/gallery/SKUA000833700_LIST_3A_06.03.26-2-thumbnail.webp" height="1024" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://e-codo.github.io/design/media/posts/11/gallery/SKUA000833700_LIST_4A_06.03.26.png" data-size="900x1200">
-        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/11/gallery/SKUA000833700_LIST_4A_06.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      <a href="https://e-codo.github.io/design/media/posts/11/gallery/SKUA000833700_LIST_4A_06.03.26-2.png" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/11/gallery/SKUA000833700_LIST_4A_06.03.26-2-thumbnail.webp" height="1024" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://e-codo.github.io/design/media/posts/11/gallery/SKUA000833700_LIST_5A_06.03.26.png" data-size="900x1200">
-        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/11/gallery/SKUA000833700_LIST_5A_06.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      <a href="https://e-codo.github.io/design/media/posts/11/gallery/SKUA000833700_LIST_5A_06.03.26-2.png" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/11/gallery/SKUA000833700_LIST_5A_06.03.26-2-thumbnail.webp" height="1024" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://e-codo.github.io/design/media/posts/11/gallery/SKUA000833700_LIST_6A_06.03.26.png" data-size="900x1200">
-        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/11/gallery/SKUA000833700_LIST_6A_06.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      <a href="https://e-codo.github.io/design/media/posts/11/gallery/SKUA000833700_LIST_6A_06.03.26-2.png" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/11/gallery/SKUA000833700_LIST_6A_06.03.26-2-thumbnail.webp" height="1024" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://e-codo.github.io/design/media/posts/11/gallery/SKUA000833700_LIST_7A_06.03.26.png" data-size="900x1200">
-        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/11/gallery/SKUA000833700_LIST_7A_06.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      <a href="https://e-codo.github.io/design/media/posts/11/gallery/SKUA000833700_LIST_7A_06.03.26-2.png" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/11/gallery/SKUA000833700_LIST_7A_06.03.26-2-thumbnail.webp" height="1024" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://e-codo.github.io/design/media/posts/11/gallery/SKUA000833700_LIST_8A_06.03.26.png" data-size="900x1200">
-        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/11/gallery/SKUA000833700_LIST_8A_06.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      <a href="https://e-codo.github.io/design/media/posts/11/gallery/SKUA000833700_LIST_8A_06.03.26-2.png" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/11/gallery/SKUA000833700_LIST_8A_06.03.26-2-thumbnail.webp" height="1024" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://e-codo.github.io/design/media/posts/11/gallery/SKUA000833700_LIST_9A_06.03.26.png" data-size="900x1200">
-        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/11/gallery/SKUA000833700_LIST_9A_06.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      <a href="https://e-codo.github.io/design/media/posts/11/gallery/SKUA000833700_LIST_9A_06.03.26-2.png" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/11/gallery/SKUA000833700_LIST_9A_06.03.26-2-thumbnail.webp" height="1024" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
@@ -78,7 +89,7 @@
         </content>
     </entry>
     <entry>
-        <title>Дизайн карточки хита для лица</title>
+        <title>03. Как я оформлял линейку Green Tea для MIXIT</title>
         <author>
             <name>Константин Евдокимов</name>
         </author>
@@ -88,86 +99,96 @@
             <category term="Маркетплейсы"/>
 
         <updated>2026-11-18T02:35:57+05:00</updated>
-            <summary></summary>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://e-codo.github.io/design/media/posts/10/SKUA001027800_LIST_A011_13.03.png" alt="" />
+                    Этот проект я делал, работая в команде MIXIT. Задача была чисто визуальной: подготовить качественные&hellip;
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://e-codo.github.io/design/media/posts/10/SKUA001027800_LIST_A011_13.03.png" class="type:primaryImage" alt="" /></p>
                 
+  <p>
+    Этот проект я делал, работая в команде MIXIT. Задача была чисто визуальной: подготовить качественные изображения и сверстать слайды для карточки энзимной пудры Green Tea.
+<br>Я сгенерировал фотореалистичные кадры, провел ретушь и собрал финальную верстку в рамках фирменного стиля. Нужно было передать спокойную эстетику продукта, показать текстуру и аккуратно вписать инфографику с преимуществами и форматом до/после, не перегружая макет.<br>
+  </p>
+
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
-      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A01_13.03.26.jpg" data-size="900x1200">
-        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A01_13.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A01_13.03.26-2.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A01_13.03.26-2-thumbnail.webp" height="1024" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A02_13.03.26.jpg" data-size="900x1200">
-        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A02_13.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A02_13.03.26-2.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A02_13.03.26-2-thumbnail.webp" height="1024" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A03_13.03.26.jpg" data-size="900x1200">
-        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A03_13.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A03_13.03.26-2.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A03_13.03.26-2-thumbnail.webp" height="1024" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A04_13.03.26.jpg" data-size="900x1200">
-        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A04_13.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A04_13.03.26-2.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A04_13.03.26-2-thumbnail.webp" height="1024" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A05_13.03.26.jpg" data-size="900x1200">
-        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A05_13.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A05_13.03.26-2.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A05_13.03.26-2-thumbnail.webp" height="1024" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A06_13.03.26.jpg" data-size="900x1200">
-        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A06_13.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A06_13.03.26-2.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A06_13.03.26-2-thumbnail.webp" height="1024" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A07_13.03.26.jpg" data-size="900x1200">
-        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A07_13.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A07_13.03.26-2.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A07_13.03.26-2-thumbnail.webp" height="1024" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A08_13.03.26.jpg" data-size="900x1200">
-        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A08_13.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A08_13.03.26-2.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A08_13.03.26-2-thumbnail.webp" height="1024" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A09_13.03.26.jpg" data-size="900x1200">
-        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A09_13.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A09_13.03.26-2.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A09_13.03.26-2-thumbnail.webp" height="1024" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A010_13.03.26.jpg" data-size="900x1200">
-        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A010_13.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A010_13.03.26-2.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A010_13.03.26-2-thumbnail.webp" height="1024" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A011_13.03.26.jpg" data-size="900x1200">
-        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A011_13.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A011_13.03.26-2.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A011_13.03.26-2-thumbnail.webp" height="1024" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A012_13.03.26.jpg" data-size="900x1200">
-        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A012_13.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A012_13.03.26-2.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A012_13.03.26-2-thumbnail.webp" height="1024" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A013_13.03.26.jpg" data-size="900x1200">
-        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A013_13.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A013_13.03.26-2.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A013_13.03.26-2-thumbnail.webp" height="1024" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A014_13.03.26.jpg" data-size="900x1200">
-        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A014_13.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A014_13.03.26-2.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A014_13.03.26-2-thumbnail.webp" height="1024" width="768" alt="" >
       </a>
       
     </figure><figure class="gallery__item">
-      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A015_13.03.26.jpg" data-size="900x1200">
-        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A015_13.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      <a href="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A015_13.03.26-2.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/10/gallery/SKUA001027800_LIST_A015_13.03.26-2-thumbnail.webp" height="1024" width="768" alt="" >
       </a>
       
     </figure>
@@ -177,7 +198,7 @@
         </content>
     </entry>
     <entry>
-        <title>От 3D-рендера к живому кадру: карточка для MIXIT Collagen &amp; Honey</title>
+        <title>04. От 3D-рендера к живому кадру: карточка для MIXIT Collagen &amp; Honey</title>
         <author>
             <name>Константин Евдокимов</name>
         </author>
@@ -277,7 +298,7 @@
         </content>
     </entry>
     <entry>
-        <title>Тест спроса без фотосессии: как собрать премиальную карточку из любительских снимков</title>
+        <title>02. Тест спроса без фотосессии: как собрать премиальную карточку из любительских снимков</title>
         <author>
             <name>Константин Евдокимов</name>
         </author>
@@ -312,7 +333,7 @@
     </h2>
 
   <p>
-    На старте у меня были только ТЗ с параметрами (материал, замеры) и любительские фото с плохим светом. Задача – превратить это в карточку, которая выглядит дорого и закрывает страхи покупателя.
+    На старте только ТЗ с параметрами (материал, замеры) и любительские фото с плохим светом. Задача – превратить это в карточку, которая выглядит дорого и закрывает страхи покупателя.
   </p>
 
     <figure class="post__image post__image--center">
@@ -519,7 +540,7 @@
         </content>
     </entry>
     <entry>
-        <title>Журнальная эстетика для маркетплейса: редизайн карточки крем-баттера</title>
+        <title>01. Журнальная эстетика для маркетплейса: редизайн карточки крем-баттера</title>
         <author>
             <name>Константин Евдокимов</name>
         </author>
