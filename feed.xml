@@ -3,12 +3,75 @@
     <title>Константин Евдокимов</title>
     <link href="https://e-codo.github.io/design/feed.xml" rel="self" />
     <link href="https://e-codo.github.io/design" />
-    <updated>2026-11-19T01:18:39+05:00</updated>
+    <updated>2026-11-19T01:29:57+05:00</updated>
     <author>
         <name>Константин Евдокимов</name>
     </author>
     <id>https://e-codo.github.io/design</id>
 
+    <entry>
+        <title>06. Собираем превью для теста CTR: MIXIT Energy Serum</title>
+        <author>
+            <name>Константин Евдокимов</name>
+        </author>
+        <link href="https://e-codo.github.io/design/sobiraem-prevyu-dlya-testa-ctr-mixit-energy-serum/"/>
+        <id>https://e-codo.github.io/design/sobiraem-prevyu-dlya-testa-ctr-mixit-energy-serum/</id>
+        <media:content url="https://e-codo.github.io/design/media/posts/12/523.jpg" medium="image" />
+            <category term="Маркетплейсы"/>
+
+        <updated>2026-11-19T01:26:43+05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://e-codo.github.io/design/media/posts/12/523.jpg" alt="" />
+                    Этот проект я делал, работая в команде MIXIT. Задача была собрать несколько вариантов превью&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://e-codo.github.io/design/media/posts/12/523.jpg" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    Этот проект я делал, работая в команде MIXIT. Задача была собрать несколько вариантов превью для сыворотки Energy Serum с витамином С, чтобы протестировать, какой подход лучше заходит аудитории. Я подготовил два направления: кадры с моделью и предметную съемку с акцентом на флакон и компонент. Это дало возможность запустить А/Б тест и выбрать обложку с максимальным CTR на основе реальных данных, а не догадок.
+  </p>
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://e-codo.github.io/design/media/posts/12/gallery/SKUA000008500_PREV_A3_25.03.26.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/12/gallery/SKUA000008500_PREV_A3_25.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://e-codo.github.io/design/media/posts/12/gallery/SKUA000008500_PREV_A4_25.03.26.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/12/gallery/SKUA000008500_PREV_A4_25.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://e-codo.github.io/design/media/posts/12/gallery/SKUA000008500_PREV_A5_25.03.26.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/12/gallery/SKUA000008500_PREV_A5_25.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://e-codo.github.io/design/media/posts/12/gallery/SKUA000008500_PREV_A6_25.03.26.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/12/gallery/SKUA000008500_PREV_A6_25.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://e-codo.github.io/design/media/posts/12/gallery/SKUA000008500_PREV_A9_25.03.26.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/12/gallery/SKUA000008500_PREV_A9_25.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://e-codo.github.io/design/media/posts/12/gallery/SKUA000008500_PREV_A10_25.03.26.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/12/gallery/SKUA000008500_PREV_A10_25.03.26-thumbnail.webp" height="1024" width="768" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>05. Тёплый свет и текстура мёда: работа над проектом MIXIT Honey</title>
         <author>
