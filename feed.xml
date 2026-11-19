@@ -3,12 +3,60 @@
     <title>Константин Евдокимов</title>
     <link href="https://e-codo.github.io/design/feed.xml" rel="self" />
     <link href="https://e-codo.github.io/design" />
-    <updated>2026-11-19T01:29:57+05:00</updated>
+    <updated>2026-11-19T10:36:09+05:00</updated>
     <author>
         <name>Константин Евдокимов</name>
     </author>
     <id>https://e-codo.github.io/design</id>
 
+    <entry>
+        <title>07. MIXIT GROWPRO: превью для А/Б теста CTR</title>
+        <author>
+            <name>Константин Евдокимов</name>
+        </author>
+        <link href="https://e-codo.github.io/design/07-test-prevyu-dlya-nabora-rosta-volos/"/>
+        <id>https://e-codo.github.io/design/07-test-prevyu-dlya-nabora-rosta-volos/</id>
+        <media:content url="https://e-codo.github.io/design/media/posts/13/magnific_.-.-.-.-.-.-rounded-squar_YV3vvOQWeC-1.png" medium="image" />
+            <category term="Маркетплейсы"/>
+
+        <updated>2026-11-19T10:27:59+05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://e-codo.github.io/design/media/posts/13/magnific_.-.-.-.-.-.-rounded-squar_YV3vvOQWeC-1.png" alt="" />
+                    Для линейки GROWPRO я подготовил варианты превью для проверки CTR на маркетплейсах. В работу&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://e-codo.github.io/design/media/posts/13/magnific_.-.-.-.-.-.-rounded-squar_YV3vvOQWeC-1.png" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    Для линейки GROWPRO я подготовил варианты превью для проверки CTR на маркетплейсах. В работу вошли создание визуалов, ретушь и верстка. Тестировал разные подходы к подаче: от мягкой пастельной эстетики до контрастного темно-красного фона с акцентом на ключевые триггеры – состав с красным перцем, объемы и статус «рекомендовано трихологами». Задача – найти связку, которая лучше всего цепляет внимание в поисковой выдаче.
+  </p>
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://e-codo.github.io/design/media/posts/13/gallery/SKUA000628500_PREV_03_09.07.26.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/13/gallery/SKUA000628500_PREV_03_09.07.26-thumbnail.webp" height="1024" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://e-codo.github.io/design/media/posts/13/gallery/SKUA000628500_PREV_01_09.07.26.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/13/gallery/SKUA000628500_PREV_01_09.07.26-thumbnail.webp" height="1024" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://e-codo.github.io/design/media/posts/13/gallery/SKUA000628500_PREV_04_09.07.26.jpg" data-size="900x1200">
+        <img loading="lazy" src="https://e-codo.github.io/design/media/posts/13/gallery/SKUA000628500_PREV_04_09.07.26-thumbnail.webp" height="1024" width="768" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>06. Собираем превью для теста CTR: MIXIT Energy Serum</title>
         <author>
@@ -268,6 +316,7 @@
         <link href="https://e-codo.github.io/design/prevyu-i-kartochka-tovara-dlya-tovara-kategorii-volosy/"/>
         <id>https://e-codo.github.io/design/prevyu-i-kartochka-tovara-dlya-tovara-kategorii-volosy/</id>
         <media:content url="https://e-codo.github.io/design/media/posts/9/41-2.png" medium="image" />
+            <category term="Маркетплейсы"/>
 
         <updated>2026-11-17T00:49:46+05:00</updated>
             <summary type="html">
