@@ -3,7 +3,7 @@
     <title>Константин Евдокимов</title>
     <link href="https://e-codo.github.io/design/feed.xml" rel="self" />
     <link href="https://e-codo.github.io/design" />
-    <updated>2026-11-19T10:36:09+05:00</updated>
+    <updated>2026-11-19T11:01:48+05:00</updated>
     <author>
         <name>Константин Евдокимов</name>
     </author>
@@ -206,19 +206,19 @@
         </author>
         <link href="https://e-codo.github.io/design/kartochka-dlya-hita/"/>
         <id>https://e-codo.github.io/design/kartochka-dlya-hita/</id>
-        <media:content url="https://e-codo.github.io/design/media/posts/10/SKUA001027800_LIST_A011_13.03.png" medium="image" />
+        <media:content url="https://e-codo.github.io/design/media/posts/10/Frame-2087330697.png" medium="image" />
             <category term="Маркетплейсы"/>
 
         <updated>2026-11-18T02:35:57+05:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://e-codo.github.io/design/media/posts/10/SKUA001027800_LIST_A011_13.03.png" alt="" />
+                        <img src="https://e-codo.github.io/design/media/posts/10/Frame-2087330697.png" alt="" />
                     Этот проект я делал, работая в команде MIXIT. Задача была чисто визуальной: подготовить качественные&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://e-codo.github.io/design/media/posts/10/SKUA001027800_LIST_A011_13.03.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://e-codo.github.io/design/media/posts/10/Frame-2087330697.png" class="type:primaryImage" alt="" /></p>
                 
   <p>
     Этот проект я делал, работая в команде MIXIT. Задача была чисто визуальной: подготовить качественные изображения и сверстать слайды для карточки энзимной пудры Green Tea.
@@ -564,6 +564,11 @@
     Отдельно отмечу выбор типографики. Для этого проекта я использовал моноширинный шрифт. В нише, где все используют стандартные гротески и антикву, этот прием добавляет карточке характера и подчеркивает современный, нешаблонный подход бренда.
   </p>
 
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://e-codo.github.io/design/media/posts/8/03.png" height="750" width="1125" alt=""  sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://e-codo.github.io/design/media/posts/8/responsive/03-xs.webp 300w ,https://e-codo.github.io/design/media/posts/8/responsive/03-sm.webp 480w ,https://e-codo.github.io/design/media/posts/8/responsive/03-md.webp 768w ,https://e-codo.github.io/design/media/posts/8/responsive/03-lg.webp 1024w">
+      
+    </figure>
+
     <h4 id="klyuchevye-resheniya">
       Ключевые решения
     </h4>
@@ -658,19 +663,19 @@
         </author>
         <link href="https://e-codo.github.io/design/zhurnalnaya-estetika-dlya-marketpleysa-redizayn-kartochki-krem-battera/"/>
         <id>https://e-codo.github.io/design/zhurnalnaya-estetika-dlya-marketpleysa-redizayn-kartochki-krem-battera/</id>
-        <media:content url="https://e-codo.github.io/design/media/posts/3/31.png" medium="image" />
+        <media:content url="https://e-codo.github.io/design/media/posts/3/Frame-2087330698.png" medium="image" />
             <category term="Маркетплейсы"/>
 
         <updated>2026-11-09T20:35:55+05:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://e-codo.github.io/design/media/posts/3/31.png" alt="" />
+                        <img src="https://e-codo.github.io/design/media/posts/3/Frame-2087330698.png" alt="" />
                     Этот кейс – концептуальный редизайн. Он показывает, как я мыслю и выстраиваю визуальную систему,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://e-codo.github.io/design/media/posts/3/31.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://e-codo.github.io/design/media/posts/3/Frame-2087330698.png" class="type:primaryImage" alt="" /></p>
                 
   <p class="pet-project-note">
     Этот кейс – концептуальный редизайн. Он показывает, как я мыслю и выстраиваю визуальную систему, когда задача формулируется не заказчиком, а моим профессиональным интересом к нише и продукту.
